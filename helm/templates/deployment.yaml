@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: storehouse-dev.nasic.af.mil/banzai-apps/misc/nginx
+        image: storehouse-dev.nasic.af.mil/banzai-apps/misc/nginx:1.22
         ports:
         - containerPort: 80
