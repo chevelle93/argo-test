@@ -1,1 +1,3 @@
-
+image:
+  repository: storehouse-dev.nasic.af.mil/banzai-apps/misc/nginx
+  tag: 1.22
