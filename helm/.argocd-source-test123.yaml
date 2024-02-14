@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.name
+    value: storehouse-dev.nasic.af.mil/banzai-apps/misc/nginx
+    forcestring: true
+  - name: image.tag
+    value: 1.25.3
+    forcestring: true
